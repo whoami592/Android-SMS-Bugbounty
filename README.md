@@ -55,7 +55,7 @@ cd Android-SMS-Bugbounty
 
 ```bash
 pkg update && pkg install python git -y
-git clone https://github.com/<your-username>/Android-SMS-Bugbounty.git
+git clone https://github.com/whoami592/Android-SMS-Bugbounty.git
 cd Android-SMS-Bugbounty
 ```
 
